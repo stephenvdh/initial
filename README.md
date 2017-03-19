@@ -1,8 +1,8 @@
 # initial
 Initial Project
 
-```This is some stuff
+This is some stuff
 Hello
-Is this Markdown```
+Is this Markdown
 
 `What up homeies?`
